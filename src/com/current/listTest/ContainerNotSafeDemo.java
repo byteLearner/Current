@@ -41,7 +41,6 @@ public class ContainerNotSafeDemo {
      * */
     /**
      * @description: ArrayList集合线程不安全的演示和解决方案
-     * @param null
      * @return: null
      * @author: liuqiang
      * @time: 2021/2/24 20:50
@@ -92,7 +91,6 @@ public class ContainerNotSafeDemo {
     }
     /**
      * @description: HashMap线程不安全演示和解决方案
-     * @param null
      * @return: null
      * @author: liuqiang
      * @time: 2021/2/24 20:58
